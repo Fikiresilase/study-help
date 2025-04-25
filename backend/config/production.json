@@ -1,0 +1,6 @@
+{
+    "googleAI": {
+      "apiKey": "${GOOGLE_API_KEY}"
+    }
+  }
+  

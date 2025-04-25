@@ -1,0 +1,9 @@
+{
+  "googleAI": {
+    "apiKey": "AIzaSyDmwDY6169AP-ks-TYL-QeObqJs9jbEQQA"
+  },
+  "jwtKey" : {
+    "jwtSecretKey" : "jwt_pass_key3487"
+
+  }
+}
